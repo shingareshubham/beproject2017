@@ -60,12 +60,12 @@
                             <img class="img-responsive" src="images/team/04.jpg" alt="">
                         </div>
                         <div class="team-info">
-                            <h3>Renuka N. K.</h3>
+                            <h3>Amol Patil</h3>
                             <span>BE [Computer]</span><br>
 							<span>Software Expert</span>
                         </div>
                         <ul class="social-icons">
-                            <li><a href="https://www.facebook.com/manali.chutke?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>

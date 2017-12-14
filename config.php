@@ -1,5 +1,5 @@
 <?php
-/*$db = mysqli_connect("202.52.134.220","shubham","shubham@123","water");*/
+/*$db = mysqli_connect("server_name","User_Name","Password","database");*/
 
-$db = mysqli_connect("localhost","root","","water");
+$db = mysqli_connect("localhost","User_Name","Password","database");
 ?>
